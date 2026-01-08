@@ -46,8 +46,7 @@ Height-Measurement-via-Barometer-using-ESP32/
 │   └── master_transmitter.ino  # Master node code (transmits reference pressure)
 ├── slave_receiver/
 │   └── slave_receiver.ino      # Slave node code (calculates height)
-├── README.md
-└── .gitignore
+└── README.md
 ```
 
 ## System Architecture
